@@ -9,6 +9,17 @@ Dentro del menú cotizaciones la primera opción que nos presenta el programa es
 3-	La opción Big nos da a elegir 3 tipos de construcciones: 73m2, 92 m2 y 120m2
 4-	La cuarta opción nos permite abandonar el menú 
 
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/e9930bee-6c3a-436c-a421-67c35e8b7b73)
+
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/49e706ef-bff5-4f18-b456-e488316eb80f)
+
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/07372f0e-9950-43cb-959c-b37c25f677c4)
+
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/0f28f3d2-dee7-434c-9752-2ebd699afb71)
+
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/325af259-4916-4756-b464-a98741c6c120)
+
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/0ea50bd5-a860-4dde-a8f1-f57445fe2547)
 
 ## Integrantes
 
