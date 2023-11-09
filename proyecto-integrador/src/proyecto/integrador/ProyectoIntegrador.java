@@ -2,6 +2,10 @@
 agreguen sus codigos en java y un resumen en readmi
  */
 package proyecto.integrador;
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+
 public class ProyectoIntegrador {
 
     public static void main(String[] args) {
