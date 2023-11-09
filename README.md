@@ -11,13 +11,23 @@ Dentro del menú cotizaciones la primera opción que nos presenta el programa es
 
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/e9930bee-6c3a-436c-a421-67c35e8b7b73)
 
+La segunda etapa del programa nos permite elegir los metros cuadrados del inmueble que deseamos construir. En la imagen siguiente se muestra las opciones disponibles en la línea Small.
+
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/49e706ef-bff5-4f18-b456-e488316eb80f)
+
+Una vez seleccionado el tamaño de la vivienda, lo siguiente será seleccionar la línea de construcción que guste, cada una refiere a la calidad y tipo de los materiales de construcción.
 
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/07372f0e-9950-43cb-959c-b37c25f677c4)
 
+A continuación, se dispone de la posibilidad de escoger los meses en los que se construirá el inmueble.
+
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/0f28f3d2-dee7-434c-9752-2ebd699afb71)
 
+Para ir finalizando, el programa nos muestra las opciones que elegimos. También se puede visualizar el costo según las elecciones que se hicieron anteriormente y además muestra el monto a abonar en caso de pagar en cuotas de acuerdo a los meses de construcción que se escogió.
+
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/325af259-4916-4756-b464-a98741c6c120)
+
+La última opción permite salir del menú de Cotizaciones, o generar una nuevamente.
 
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/0ea50bd5-a860-4dde-a8f1-f57445fe2547)
 
