@@ -38,3 +38,4 @@ La última opción permite salir del menú de Cotizaciones, o generar una nuevam
 - [@martyn2022](https://www.github.com/martyn2022)
 - [@LucaPeraltta](https://www.github.com/LucaPeraltta)
 - [@M-elsesser](https://www.github.com/M-elsesser)
+- [@Briandif](https://github.com/Briandif)
