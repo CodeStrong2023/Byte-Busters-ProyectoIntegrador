@@ -34,22 +34,22 @@ public class MenuPrincipal {
 
             switch (opcion3) {
                 case 1:
-//                    Inicio.inicio();
+                    Inicio.inicio();
                     break;
                 case 2:
-//                    Nosotros.nosotros();
+                    Nosotros.nosotros();
                     break;
                 case 3:
                     Tipologia.tipologia();
                     break;
                 case 4:
-//                    Cotizacion.mostrarCotizacion();
+                    Cotizacion.mostrarCotizacion();
                     break;
                 case 5:
-//                    Contrato.contrato();
+                    Contrato.contrato();
                     break;
                 case 6:
-//                    Contacto.contactanos();
+                    Contacto.contactanos();
                     break;
                 case 7:
                     System.out.println("Gracias por elegirnos!");
