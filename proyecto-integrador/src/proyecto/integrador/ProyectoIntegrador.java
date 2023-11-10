@@ -6,7 +6,10 @@ package proyecto.integrador;
 
 
 public class ProyectoIntegrador {
+    
+    
     public static void main(String[] args) {
 
     }
+    
 }
