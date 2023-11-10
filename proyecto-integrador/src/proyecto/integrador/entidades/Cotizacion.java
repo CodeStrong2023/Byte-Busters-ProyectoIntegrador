@@ -1,5 +1,5 @@
-package proyecto.integrador;
 
+package proyecto.integrador.entidades;
 import java.util.InputMismatchException;
 import java.util.Scanner;
    
