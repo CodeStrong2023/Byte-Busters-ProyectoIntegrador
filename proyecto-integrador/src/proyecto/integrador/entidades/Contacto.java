@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyectointegradorpractica.entidades;
+package proyecto.integrador.entidades;
 
 import java.util.Scanner;
 
@@ -44,21 +44,6 @@ public class Contacto {
         contactos[2][1] = "2604034760";
         contactos[2][2] = "andresluna201@hotmail.com";
 
-//        contactos[1][0] = "Lucas Peralta";
-//        contactos[1][1] = "2604591821";
-//        contactos[1][2] = "lucas@hotmail.com";
-
-//        contactos[4][0] = "Martin Ledezma";
-//        contactos[4][1] = "3512333714";
-//        contactos[4][2] = "martynledezma@gmail.com";
-//
-//        contactos[5][0] = "Bruno de la Vega";
-//        contactos[5][1] = "2604628937";
-//        contactos[5][2] = "Brunodelavega@hotmail.com";
-//
-//        contactos[6][0] = "Micaela Elsesser";
-//        contactos[6][1] = "2004023589";
-//        contactos[6][2] = "mikelsesser@gmail.com";
         for (int i = 0; i <= 2; i++) {
             System.out.println("Nombre: " + contactos[i][0]);
             System.out.println("WhatsApp: " + contactos[i][1]);
