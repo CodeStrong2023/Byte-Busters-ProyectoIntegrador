@@ -96,7 +96,7 @@ public class Tipologia {
                             + "\n  PODEMOS OPTAR POR: \n"
                             + "* 73m2 1 dormitorio \n"
                             + "* 92m2 2 dormitorios \n"
-                            + "* 120m2 3 dormitorios\n"
+                            + "* 120m2 3 dormitorios\n");
                     String[][] metro3 = new String[4][1];
                     metro3[0][0] = "   73m2";
                     metro3[1][0] = "   92m2";
@@ -124,4 +124,5 @@ public class Tipologia {
                     System.out.println("");
             }
      } while (opcion != 4); 
+    }   
 }
