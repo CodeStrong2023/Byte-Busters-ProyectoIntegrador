@@ -13,7 +13,7 @@ Describe brevemente:
 * TERRENO
 
 ## Tipologia
-Se hace una descripción de la variedad de viviendas de las que se disponne, y sus caracteristicas
+Se hace una descripción de la variedad de viviendas de las que se dispone, y sus caracteristicas
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/3c5315df-bab3-4f9b-87e7-58af28011173)
 
 ## Menú Cotizaciones
