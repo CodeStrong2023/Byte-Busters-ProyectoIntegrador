@@ -45,11 +45,16 @@ La última opción permite salir del menú de Cotizaciones, o generar una nuevam
 
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/0ea50bd5-a860-4dde-a8f1-f57445fe2547)
 
+## Contrato
+Opción que permite tomar los datos del cliente y almacenarlos en el sistema de la empresa
+![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/ef669256-f90e-4a23-98f6-e3c28cd2346c)
+
+## Contacto
+Ofrece información al cliente para contactar a la empresa, como números de telefonos y correos 
+
 ## Integrantes
 
 - [@Luna201](https://www.github.com/Luna201)
 - [@dalmaponce](https://www.github.com/dalmaponce)
-- [@martyn2022](https://www.github.com/martyn2022)
-- [@LucaPeraltta](https://www.github.com/LucaPeraltta)
-- [@M-elsesser](https://www.github.com/M-elsesser)
+
 - [@Briandif](https://github.com/Briandif)
