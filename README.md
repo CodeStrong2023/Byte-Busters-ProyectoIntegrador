@@ -3,6 +3,18 @@ Hola! Este repositorio esta destinado para el Proyecto Integrador del grupo BYTE
 
 ## Menú 
 ![image](https://github.com/CodeStrong2023/Byte-Busters-ProyectoIntegrador/assets/65298144/18f2b2b7-616a-4242-8dce-1115a23ecb32)
+
+## Nosotros 
+Describe brevemente:
+* PROYECTOS
+* MATERIAL TRADICIONAL
+* SISTEMA LLAVE EN MANO
+* INSTALACIONES
+* TERRENO
+
+## Tipologia
+
+
 ## Menú Cotizaciones
 Dentro del menú cotizaciones la primera opción que nos presenta el programa es la de seleccionar el tamaño del inmueble que se desea construir. Las opciones disponibles son:
 1-	La opción Small nos da a elegir 3 tipos de construcciones: 45m2, 60 m2 y 74m2
