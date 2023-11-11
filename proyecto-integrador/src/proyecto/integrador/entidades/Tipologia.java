@@ -130,11 +130,4 @@ public class Tipologia {
                 System.out.println("No corresponde a una opción válida.");
                     System.out.println("");
             }
-        } while (opcion != 4);
-
-        System.out.println("********************************************************************************************");
-        System.out.println("");
-
-    }
-
 }
