@@ -45,7 +45,6 @@ public class Tipologia {
                     metro[0][0] = "   45m2";
                     metro[1][0] = "   60m2";
                     metro[2][0] = "   74m2";
-                    metro[3][0] = "   90m2";
 
                     for (int i = 1; i <= 1; i++) {
                         System.out.println(" _______________________________");
@@ -54,7 +53,6 @@ public class Tipologia {
                         System.out.println(" | 1 Dormitorio :| " + metro[0][0] + "      |");
                         System.out.println(" | 2 Dormitorios:| " + metro[1][0] + "      |");
                         System.out.println(" | 3 Dormitorios:| " + metro[2][0] + "      |");
-                        System.out.println(" | 4 Dormitorios:| " + metro[3][0] + "       |");
                         System.out.println(" |_______________|______________|");
                         System.out.println("===========================================================================================");
                     }
@@ -75,8 +73,7 @@ public class Tipologia {
                     metro2[0][0] = "   70m2";
                     metro2[1][0] = "   88m2";
                     metro2[2][0] = "   103m2";
-                    metro2[3][0] = "   120m2";
-
+                    
                     for (int i = 1; i <= 1; i++) {
                         System.out.println(" _______________________________");
                         System.out.println(" | BYTE BUSTER   |  Medium Home |");
@@ -84,13 +81,12 @@ public class Tipologia {
                         System.out.println(" | 1 Dormitorio :| " + metro2[0][0] + "      |");
                         System.out.println(" | 2 Dormitorios:| " + metro2[1][0] + "      |");
                         System.out.println(" | 3 Dormitorios:| " + metro2[2][0] + "      |");
-                        System.out.println(" | 4 Dormitorios:| " + metro2[3][0] + "       |");
                         System.out.println(" |_______________|______________|");
                         System.out.println("========================================================================================");
                     }
                     System.out.println("");
 
-                    break;
+                    break;             
                 case 3:
 
                     System.out.println("\n=========================================================================================\n"
@@ -101,12 +97,10 @@ public class Tipologia {
                             + "* 73m2 1 dormitorio \n"
                             + "* 92m2 2 dormitorios \n"
                             + "* 120m2 3 dormitorios\n"
-                            + "* 125m2 3 dormitorios c/SUITE");
                     String[][] metro3 = new String[4][1];
                     metro3[0][0] = "   73m2";
                     metro3[1][0] = "   92m2";
                     metro3[2][0] = "   120m2";
-                    metro3[3][0] = "   125m2";
 
                     for (int i = 1; i <= 1; i++) {
                         System.out.println(" _______________________________");
@@ -115,7 +109,6 @@ public class Tipologia {
                         System.out.println(" | 1 Dormitorio :| " + metro3[0][0] + "      |");
                         System.out.println(" | 2 Dormitorios:| " + metro3[1][0] + "      |");
                         System.out.println(" | 3 Dormitorios:| " + metro3[2][0] + "      |");
-                        System.out.println(" | 4 Dormitorios:| " + metro3[3][0] + "       |");
                         System.out.println(" |_______________|______________|");
                         System.out.println("==========================================================================================");
                     }
