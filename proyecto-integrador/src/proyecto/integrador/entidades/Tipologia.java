@@ -45,7 +45,7 @@ public class Tipologia {
                     metro[0][0] = "   45m2";
                     metro[1][0] = "   60m2";
                     metro[2][0] = "   74m2";
-                    metro[3][0] = "   ---";
+                    metro[3][0] = "   90m2";
 
                     for (int i = 1; i <= 1; i++) {
                         System.out.println(" _______________________________");
@@ -75,7 +75,7 @@ public class Tipologia {
                     metro2[0][0] = "   70m2";
                     metro2[1][0] = "   88m2";
                     metro2[2][0] = "   103m2";
-                    metro2[3][0] = "   ---";
+                    metro2[3][0] = "   120m2";
 
                     for (int i = 1; i <= 1; i++) {
                         System.out.println(" _______________________________");
@@ -130,4 +130,5 @@ public class Tipologia {
                 System.out.println("No corresponde a una opción válida.");
                     System.out.println("");
             }
+     } while (opcion != 4); 
 }
